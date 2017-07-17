@@ -1,0 +1,53 @@
+
+
+The above data sets are extracted from the links.csv 
+
+Note : Headers Are not added.
+**DATA IS MESSY**
+
+
+Credentials.csv
+	Some of the Basic Data from Profile.
+		--ID
+		--Name
+		--City
+		--City
+		--State
+		--Current Position
+
+
+Companies.csv
+	All the companies they have followed
+		--ID
+		--All other fields are Companies
+
+
+
+GroupName.csv
+	All the groups they have joined
+		--ID
+		--All other fields are Groups Joined
+
+
+
+Skills.csv
+	All the Skills they have entered
+		--ID
+		--All other fields are Companies
+
+
+Education.csv
+	Education Data
+		--ID
+		--Institute Name 5 fields(respectively)
+		--Field of Study 5 fields(respectively)
+		--Start Date 5 fields(respectively)
+		--End Date 5 fields(respectively)
+
+Employment.csv
+	Employments Data
+		--Company Name 5 fields(respectively)
+		--Job Title 5 fields(respectively)
+		--Job Location 5 fields(respectively)
+		--Start Date 5 fields(respectively)
+		--End Date 5 fields(respectively)
