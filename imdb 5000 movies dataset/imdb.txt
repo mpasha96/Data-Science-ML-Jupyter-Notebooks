@@ -1,0 +1,19 @@
+avg num of movie duration/rating/user reviews
+
+trend for count of movies released per year. (bar graph)
+
+top n-movies of alltime/per year
+
+top n-movies country wise
+
+correlation between coloumns
+
+most popular genre (bar graph)
+
+Directors with most movies
+
+Actors with most movies
+
+count of movies wrt content rating
+
+strong correlation b/w actor 1 fb likes and total cast total fb likes
